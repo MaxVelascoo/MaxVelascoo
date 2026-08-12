@@ -87,6 +87,6 @@ and identifying potential KOM opportunities.
 
 ### 🌍 Languages
 
-🇪🇸 Spanish — Native  
-🇨🇦 Catalan — Native  
-🇬🇧 English — B2 Cambridge
+Spanish — Native  
+Catalan — Native  
+English — B2 Cambridge
