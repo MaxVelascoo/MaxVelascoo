@@ -1,28 +1,92 @@
-![github-header-image](https://github.com/user-attachments/assets/cf5a8a3a-32e6-44f3-9bd3-ccde1144f923)
-```c++
-#include <iostream>
-#include <string>
-#include <vector>
-using namespace std;
+<h1 align="center">Hi 👋, I'm Max Velasco</h1>
 
-class SoftwareEngineer {
-public:
-    string name, role;
-    vector<string> languagesSpoken;
+<h3 align="center">
+Software Engineer · Backend · AI · Cloud
+</h3>
 
-    SoftwareEngineer(const string& n, const string& r, const vector<string>& lang)
-        : name(n), role(r), languagesSpoken(lang) {}
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+  ·
+  <a href="mailto:max.velasco.rajo@gmail.com">Email</a>
+</p>
 
-    void sayHi() const {
-        cout << "Hi, I am " << name << ". " << role << "\n";
-    }
-};
+---
 
-int main() {
-    SoftwareEngineer max("Max Velasco Rajo", "Curious Explorer", {"es_ES", "en_US"});
+### 👨‍💻 About me
 
-    max.sayHi();
+I'm a Software Engineer from Barcelona with a degree in Computer
+Engineering from Universitat Politècnica de Catalunya (UPC).
 
-    return 0;
-}
-```
+Currently working as a Software Engineer at NTT DATA, where I have
+worked on AI-based solutions, multi-agent systems and RAG pipelines.
+
+I'm particularly interested in:
+
+- 🧠 Artificial Intelligence & LLMs
+- 🏗️ Backend & Software Architecture
+- ☁️ Cloud & Distributed Systems
+- ⚡ Performance & Algorithms
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `C++` `Java` `SQL`
+
+**Backend**
+
+`FastAPI` `REST APIs` `PostgreSQL` `Supabase`
+
+**AI**
+
+`LLMs` `LangGraph` `RAG` `OpenAI API`
+
+**Infrastructure**
+
+`Docker` `Git` `Cloud`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 PaceAlyzer
+
+AI-powered cycling performance platform developed as my Bachelor's
+Thesis.
+
+- Multi-agent architecture using LangGraph
+- RAG pipeline for personalized training recommendations
+- Strava API integration
+- Backend built with FastAPI
+- PostgreSQL / Supabase
+- Docker
+
+[View project →](...)
+
+#### 🚴 Cycling Physics Engine
+
+Physics-based simulation engine for estimating cycling performance
+and identifying potential KOM opportunities.
+
+- Power-based simulation
+- Aerodynamic modelling
+- GPX processing
+- Performance validation against real-world activities
+
+[View project →](...)
+
+---
+
+### 📊 GitHub
+
+[stats]
+
+---
+
+### 🌍 Languages
+
+🇪🇸 Spanish — Native  
+🇨🇦 Catalan — Native  
+🇬🇧 English — B2 Cambridge
