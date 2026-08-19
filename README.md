@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Max Velasco</h1>
-
-<h3 align="center">
-Software Engineer · Backend · AI · Cloud
-</h3>
+<p align="center">
+  <img src="./assets/banner.png" alt="Max Velasco — Software Engineer" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/">LinkedIn</a>
