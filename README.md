@@ -46,36 +46,16 @@ Outside code   ->  Cycling and sports technology
 
 ## Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>PaceAlyzer</h3>
-      <p>Full-stack cycling training planner powered by natural language, a multi-agent backend and hybrid RAG.</p>
-      <p><strong>FastAPI · Next.js · LangGraph · PostgreSQL · pgvector · OpenAI</strong></p>
-      <a href="https://github.com/MaxVelascoo/PaceAlyzer_Public">Explore the project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>FrozenLake RL Experiments</h3>
-      <p>Reinforcement-learning experiments focused on agent behaviour and decision-making in FrozenLake.</p>
-      <p><strong>Python · Reinforcement Learning · Experimentation</strong></p>
-      <a href="https://github.com/MaxVelascoo/frozenlake-RL-experiments">Explore the project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Mini Scheme Interpreter</h3>
-      <p>A compact Scheme interpreter that explores language parsing, evaluation and interpreter design.</p>
-      <p><strong>Python · Compilers · Language Processing</strong></p>
-      <a href="https://github.com/MaxVelascoo/Mini_Scheme_Interpreter">Explore the project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Wahoo Data Field</h3>
-      <p>A custom data-field project for the Wahoo fitness ecosystem, combining software and cycling.</p>
-      <p><strong>Monkey C · Sports Tech · Data</strong></p>
-      <a href="https://github.com/MaxVelascoo/Wahoo_Datafield">Explore the project →</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/MaxVelascoo/PaceAlyzer_Public">
+    <img src="./assets/project-pacealyzer.svg" alt="PaceAlyzer — AI-powered cycling training platform" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaxVelascoo/kirozurera_backend"><img src="./assets/project-kirozurera.svg" alt="KiroZurera Backend — smart practice operations" width="49%" /></a>
+  <img src="./assets/project-physics-engine.svg" alt="Cycling Physics Engine — coming soon" width="49%" />
+</p>
 
 ## GitHub activity
 

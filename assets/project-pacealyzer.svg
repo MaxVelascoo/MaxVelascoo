@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">PaceAlyzer</title>
+  <desc id="desc">Featured project: an AI-powered cycling training platform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081a38"/>
+      <stop offset="0.55" stop-color="#0d2f68"/>
+      <stop offset="1" stop-color="#1757aa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#66a6ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#66a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#9dc4ff" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#020b18" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="328" rx="26" fill="url(#bg)" stroke="#69a8ff" stroke-opacity="0.32" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="328" rx="26" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="26" fill="url(#glow)"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="54" y="44" width="105" height="29" rx="14.5" fill="#7db4ff" fill-opacity="0.18" stroke="#8dbdff" stroke-opacity="0.5"/>
+    <text x="106.5" y="64" fill="#bad6ff" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1.8">FLAGSHIP</text>
+
+    <text x="52" y="127" fill="#ffffff" font-size="45" font-weight="750">PaceAlyzer</text>
+    <text x="54" y="164" fill="#a8c9f5" font-size="18" letter-spacing="0.3">AI-POWERED CYCLING TRAINING PLATFORM</text>
+    <text x="54" y="210" fill="#e5efff" font-size="18">Natural-language planning powered by multi-agent orchestration</text>
+    <text x="54" y="238" fill="#e5efff" font-size="18">and hybrid retrieval-augmented generation.</text>
+
+    <g font-size="14" font-weight="600">
+      <rect x="54" y="267" width="70" height="30" rx="15" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="89" y="287" fill="#dceaff" text-anchor="middle">FastAPI</text>
+      <rect x="132" y="267" width="80" height="30" rx="15" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="172" y="287" fill="#dceaff" text-anchor="middle">Next.js</text>
+      <rect x="220" y="267" width="96" height="30" rx="15" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="268" y="287" fill="#dceaff" text-anchor="middle">LangGraph</text>
+      <rect x="324" y="267" width="95" height="30" rx="15" fill="#ffffff" fill-opacity="0.1"/>
+      <text x="371.5" y="287" fill="#dceaff" text-anchor="middle">PostgreSQL</text>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M790 165C826 99 882 91 926 139C967 184 1020 192 1082 133" fill="none" stroke="#84b9ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 9" opacity="0.75"/>
+    <path d="M771 224C844 225 875 192 916 164C968 128 1027 226 1116 190" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="2"/>
+    <g fill="#102c5b" stroke="#92c2ff" stroke-width="2">
+      <circle cx="790" cy="165" r="29"/>
+      <circle cx="926" cy="139" r="34"/>
+      <circle cx="1082" cy="133" r="25"/>
+      <circle cx="771" cy="224" r="22"/>
+      <circle cx="916" cy="164" r="18"/>
+      <circle cx="1116" cy="190" r="30"/>
+    </g>
+    <g fill="#dbeaff" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">
+      <text x="790" y="169">PLAN</text>
+      <text x="926" y="143">AGENTS</text>
+      <text x="1082" y="137">RAG</text>
+      <text x="771" y="228">DATA</text>
+      <text x="1116" y="194">RIDE</text>
+    </g>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">
+    <text x="1026" y="286" fill="#ddebff">EXPLORE PROJECT</text>
+    <path d="M1160 281h-17m17 0-7-7m7 7-7 7" fill="none" stroke="#ddebff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
